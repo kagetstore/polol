@@ -4,7 +4,7 @@ return `PAYMENT BY ZEEONE OFC
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 
+	ㅁ 0637 0101 4470 531
 	
 *💰 E-MONEY*
 
