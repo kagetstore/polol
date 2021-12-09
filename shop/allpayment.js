@@ -4,7 +4,7 @@ return `𝙋𝘼𝙔𝙈𝙀𝙉𝙏 𝘽𝙔 𝙆𝘼𝙂𝙀𝙏𝙎𝙏𝙊�
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326 = 𝙅***𝙇𝘼
+	ㅁ 8881 0887 4350 47326 = 
 	
 *💰 E-MONEY*
 
@@ -22,7 +22,7 @@ Semuanya atas nama 𝙆𝘼******𝙍𝙀
 𝙆𝙃𝙐𝙎𝙐𝙎 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 𝙋𝙐𝙇𝙎𝘼 𝙏𝘼𝙈𝘽𝘼𝙃 5𝙆
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
-
+'
 	}
 
 exports.allpayment = allpayment
