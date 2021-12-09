@@ -18,7 +18,7 @@ return ` `PAYMENT BY ZEEONE OFC
 2. OVO
 	ㅁ 0887 4350 47326
 3. DANA
-	ㅁ 0857 6350 0823
+	ㅁ 0887 4350 47326
 	
 Semuanya atas nama KA******RE
 *📲 PULSA*
