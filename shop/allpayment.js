@@ -8,21 +8,19 @@ return ` `PAYMENT BY ZEEONE OFC
 	
 *💰 E-MONEY*
 
-1. 𝙂𝙊𝙋𝘼𝙔
+GOPAY
 	ㅁ 0812 7930 1794
-2. 𝙊𝙑𝙊
+2. OVO
 	ㅁ 0857 6350 0823
-3. 𝘿𝘼𝙉𝘼
+3. DANA
 	ㅁ 0857 6350 0823
 	
-Semuanya atas nama 𝙆𝘼******𝙍𝙀
-
+Semuanya atas nama KA******RE
 *📲 PULSA*
-085763500823
-𝙆𝙃𝙐𝙎𝙐𝙎 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 𝙋𝙐𝙇𝙎𝘼 𝙏𝘼𝙈𝘽𝘼𝙃 5𝙆
+Tidak tersedia
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
-'
+`
 	}
 
 exports.allpayment = allpayment
