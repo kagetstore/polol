@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `𝙋𝘼𝙔𝙈𝙀𝙉𝙏 𝘽𝙔 𝙆𝘼𝙂𝙀𝙏𝙎𝙏𝙊𝙍𝙀
+return ` `PAYMENT BY ZEEONE OFC
 
 *🏧 BANK*
 
